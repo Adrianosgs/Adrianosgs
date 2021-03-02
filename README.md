@@ -2,7 +2,7 @@
 
 #### Desenvolvedor Frontend Júnior 👨‍💻
 
-##### Em aprendizado HTML, CSS, JAVASCRIPT, REACT, NODEJS e TYPEScript
+##### Aprendendo HTML, CSS, JAVASCRIPT, REACT, NODEJS e TYPEScript
 
 
 ## Connect with me:
