@@ -1,6 +1,5 @@
-### Adriano Guedes dos Santos
 
-#### Desenvolvedor Frontend Júnior 👨‍💻
+### Desenvolvedor Frontend Júnior 👨‍💻
 
 ##### Aprendendo HTML, CSS, JAVASCRIPT, REACT, NODEJS e TYPEScript
 
