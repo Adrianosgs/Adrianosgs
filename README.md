@@ -5,15 +5,12 @@
 
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/adriano-guedes-baa64573/" target="_blank">
-<img align="center" alt="diego-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
-</a>
-<a href="https://www.instagram.com/adriano.sgs/" target="_blank">
-<img align="center" alt="diego-instagram" height="30" width="30"src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
-</a>
-<a href="https://www.facebook.com/people/Adriano-Santos/100001494982994" target="_blank">
-<img align="center" alt="diego-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;">
-</a>
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Adriano-Santos/100001494982994)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adriano.sgs/)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-guedes-baa64573/)
 
 ## Minhas Habilidades
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
