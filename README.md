@@ -1,7 +1,7 @@
 
 ## Desenvolvedor Frontend Júnior 👨‍💻
 
-##### Aprendendo HTML, CSS, JAVASCRIPT, REACT, NODEJS e TYPESCRIPT
+##### Me desenvolvendo em: HTML5, CSS, JavaScript, React, Vue.js, NodeJs e Typescript
 
 
 ## Connect with me:
@@ -21,5 +21,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg alt="github" width="40" height="40" style="max-width:100%;"></img>
 
 
