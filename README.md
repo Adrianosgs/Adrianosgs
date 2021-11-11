@@ -1,9 +1,6 @@
 
 ## Desenvolvedor Frontend Júnior 👨‍💻
 
-##### Me desenvolvendo em: HTML5, CSS, JavaScript, React, Vue.js, NodeJs e Typescript
-
-
 ## Entre em contato:
  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Adriano-Santos/100001494982994)
