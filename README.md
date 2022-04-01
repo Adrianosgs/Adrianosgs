@@ -1,7 +1,10 @@
 
 ## Desenvolvedor Frontend Júnior   👨‍💻 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianosgs&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/Adrianosgs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrianosgs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianosgs&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 ## Entre em contato:
