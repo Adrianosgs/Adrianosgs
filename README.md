@@ -26,6 +26,8 @@
   <img align="center" alt="WordPress" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
 <!--   <img align="center" alt="php" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> -->
   <img align="center" alt="git" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="php" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  
   
   
   
