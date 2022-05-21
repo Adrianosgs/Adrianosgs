@@ -2,8 +2,8 @@
 ## Desenvolvedor Frontend 👨‍💻 
 <div align="center">
   <a href="https://github.com/Adrianosgs">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Adrianosgs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianosgs&layout=compact&langs_count=10&theme=dark"/>
+    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Adrianosgs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianosgs&&hide=Handlebars,Nunjucks&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
 
