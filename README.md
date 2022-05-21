@@ -2,8 +2,8 @@
 ## Web Developer 👨‍💻 
 <div align="center">
   <a href="https://github.com/Adrianosgs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrianosgs&icon_color=32CD32&text_color=ffffff&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianosgs&text_color=ffffff&hide=Handlebars,Nunjucks&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrianosgs&icon_color=32CD32&text_color=ffffff&border_color=008000&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianosgs&text_color=ffffff&border_color=008000&hide=Handlebars,Nunjucks&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <br><br>
